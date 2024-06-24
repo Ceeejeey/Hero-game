@@ -1,0 +1,14 @@
+D:\c# projects\HeroGame\CsharpHeroGame\bin\Debug\net8.0\CsharpHeroGame.exe
+D:\c# projects\HeroGame\CsharpHeroGame\bin\Debug\net8.0\CsharpHeroGame.deps.json
+D:\c# projects\HeroGame\CsharpHeroGame\bin\Debug\net8.0\CsharpHeroGame.runtimeconfig.json
+D:\c# projects\HeroGame\CsharpHeroGame\bin\Debug\net8.0\CsharpHeroGame.dll
+D:\c# projects\HeroGame\CsharpHeroGame\bin\Debug\net8.0\CsharpHeroGame.pdb
+D:\c# projects\HeroGame\CsharpHeroGame\obj\Debug\net8.0\CsharpHeroGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\c# projects\HeroGame\CsharpHeroGame\obj\Debug\net8.0\CsharpHeroGame.AssemblyInfoInputs.cache
+D:\c# projects\HeroGame\CsharpHeroGame\obj\Debug\net8.0\CsharpHeroGame.AssemblyInfo.cs
+D:\c# projects\HeroGame\CsharpHeroGame\obj\Debug\net8.0\CsharpHeroGame.csproj.CoreCompileInputs.cache
+D:\c# projects\HeroGame\CsharpHeroGame\obj\Debug\net8.0\CsharpHeroGame.dll
+D:\c# projects\HeroGame\CsharpHeroGame\obj\Debug\net8.0\refint\CsharpHeroGame.dll
+D:\c# projects\HeroGame\CsharpHeroGame\obj\Debug\net8.0\CsharpHeroGame.pdb
+D:\c# projects\HeroGame\CsharpHeroGame\obj\Debug\net8.0\CsharpHeroGame.genruntimeconfig.cache
+D:\c# projects\HeroGame\CsharpHeroGame\obj\Debug\net8.0\ref\CsharpHeroGame.dll
